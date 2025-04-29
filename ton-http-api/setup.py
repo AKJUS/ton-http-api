@@ -20,7 +20,7 @@ setup(
         'loguru==0.6.0',
         'fastapi==0.99.1',
         'pydantic==1.10.14',
-        'requests==2.28.0',
+        'requests==2.32.2',
         'ring==0.10.1',
         'uvicorn==0.17.6',
         'gunicorn==20.1.0',
